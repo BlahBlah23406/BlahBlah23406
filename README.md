@@ -6,8 +6,6 @@
 ### STARFLEET COMMAND • FLAG OFFICER PERSONAL DOSSIER
 **CLEARANCE LEVEL: OMEGA-1 // FLEET OPERATIONS & ADVANCED RESEARCH ARCHIVE**
 
-<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-loader.svg" width="320" alt="LCARS Telemetry Stream" />
-
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-FLEET%20ADMIRAL-FF9900?style=for-the-badge&labelColor=080C14" alt="Rank" />
   <img src="https://img.shields.io/badge/CLEARANCE-OMEGA--1-FF2A55?style=for-the-badge&labelColor=080C14" alt="Clearance" />
