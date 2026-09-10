@@ -1,9 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="LCARS divider">
-  <rect width="1200" height="28" fill="none"/>
-  <rect x="0" y="11" width="520" height="6" rx="3" fill="#24C7C0"/>
-  <rect x="540" y="11" width="320" height="6" rx="3" fill="#7FE7FF"/>
-  <rect x="880" y="11" width="200" height="6" rx="3" fill="#F2A84A"/>
-  <circle cx="1120" cy="14" r="6" fill="#24C7C0"/>
-  <circle cx="1144" cy="14" r="5" fill="#7FE7FF"/>
-  <circle cx="1166" cy="14" r="4" fill="#F2A84A"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="20" viewBox="0 0 1200 20" role="img" aria-label="LCARS symmetrical divider">
+  <rect width="1200" height="20" fill="none"/>
+  <!-- Left Wing -->
+  <rect x="35" y="7" width="120" height="6" rx="3" fill="#FF9900"/>
+  <rect x="165" y="7" width="320" height="6" rx="3" fill="#00E5FF"/>
+  <rect x="495" y="7" width="80" height="6" rx="3" fill="#FFB347"/>
+  <!-- Center Core -->
+  <rect x="585" y="6" width="30" height="8" rx="4" fill="#FF2A55"/>
+  <!-- Right Wing (Mirrored) -->
+  <rect x="625" y="7" width="80" height="6" rx="3" fill="#FFB347"/>
+  <rect x="715" y="7" width="320" height="6" rx="3" fill="#00E5FF"/>
+  <rect x="1045" y="7" width="120" height="6" rx="3" fill="#FF9900"/>
 </svg>

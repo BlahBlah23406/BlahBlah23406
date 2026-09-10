@@ -1,46 +1,40 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-delta.svg" width="55" alt="Starfleet Delta Insignia" />
+<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-delta.svg" width="50" alt="Starfleet Delta Insignia" />
 
-# U.S.S. ENTERPRISE • NCC-1701-G
-### STARFLEET COMMAND // DIVISION OF OPERATIONS & ADVANCED RESEARCH
-**LCARS-2500 CONSOLE INTERFACE • SYSTEM DIRECTIVE 2402.1**
+# ADMIRAL BLAHBLAH23406
+### STARFLEET COMMAND • FLAG OFFICER PERSONAL DOSSIER
+**CLEARANCE LEVEL: OMEGA-1 // FLEET OPERATIONS & ADVANCED RESEARCH ARCHIVE**
 
-<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-loader.svg" width="340" alt="LCARS Telemetry Stream" />
+<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-loader.svg" width="320" alt="LCARS Telemetry Stream" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VESSEL-USS%20ENTERPRISE-FF9900?style=for-the-badge&labelColor=080C14" alt="Vessel" />
-  <img src="https://img.shields.io/badge/REGISTRY-NCC--1701--G-00E5FF?style=for-the-badge&labelColor=080C14" alt="Registry" />
-  <img src="https://img.shields.io/badge/CLASS-CONSTITUTION%20III-FFB347?style=for-the-badge&labelColor=080C14" alt="Class" />
-  <img src="https://img.shields.io/badge/COMMAND-CAPT.%20SEVEN%20OF%20NINE-FF2A55?style=for-the-badge&labelColor=080C14" alt="Command" />
+  <img src="https://img.shields.io/badge/RANK-FLEET%20ADMIRAL-FF9900?style=for-the-badge&labelColor=080C14" alt="Rank" />
+  <img src="https://img.shields.io/badge/CLEARANCE-OMEGA--1-FF2A55?style=for-the-badge&labelColor=080C14" alt="Clearance" />
+  <img src="https://img.shields.io/badge/ASSIGNMENT-FLEET%20OPERATIONS-00E5FF?style=for-the-badge&labelColor=080C14" alt="Assignment" />
+  <img src="https://img.shields.io/badge/STATION-SECTOR%20001%20%28EARTH%29-FFB347?style=for-the-badge&labelColor=080C14" alt="Station" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-24C7C0?style=for-the-badge&labelColor=080C14" alt="Status" />
 </p>
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/enterprise-g.jpg" width="100%" alt="USS Enterprise NCC-1701-G Hero Display" style="border-radius: 8px; border: 1px solid #FF9900;" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
 </div>
 
 ```
 ========================================================================================
-[LCARS TERMINAL 25.04.1] :: U.S.S. ENTERPRISE-G :: OPERATIONS & ADVANCED RESEARCH CORE
-STARDATE: 103214.8      :: SECTOR: 001 (SOL)    :: ODN RELAYS: NOMINAL (99.98%)
-DEFLECTOR: ENGAGED      :: SHIELDS: 100%        :: NEURAL ARRAYS: SYNCHRONIZED
+[LCARS PERSONNEL DOSSIER // SEC-OPS 25.04] :: ADMIRAL BLAHBLAH23406
+STARDATE: 103214.8      :: SECTOR: 001 (SOL)    :: CLEARANCE: LEVEL 10 / OMEGA PRIVILEGE
+STATUS: ACTIVE DUTY     :: U.S.S. ENTERPRISE-G  :: ALL STRATEGIC INITIATIVES NOMINAL
 ========================================================================================
 ```
 
-### 🖖 ACTIVE STARFLEET FLEET DEPLOYMENTS
+### 🖖 ACTIVE FLEET DIRECTIVES & INITIATIVES
 
-| Mission Directive | Classification | Subsystem Status & Architecture |
+| Mission Directive | Classification | Overview & Architecture |
 | :--- | :--- | :--- |
-| 🛸 **[Project Zora](https://github.com/BlahBlah23406/project-zora)** | `LOCAL-AI CORE` | Starfleet-themed personal assistant & dashboard inspired by Discovery's AI. Dual-LLM cognitive pipeline orchestrating local `DeepSeek-R1` (deep reasoning) & `Qwen 2.5` (JSON parsing) with continuous rule evolution. |
+| 🛸 **[Project Zora](https://github.com/BlahBlah23406/project-zora)** | `LOCAL-AI CORE` | Starfleet-themed personal assistant & dashboard inspired by Discovery's AI. Dual-LLM cognitive pipeline orchestrating local `DeepSeek-R1` (deep reasoning) & `Qwen 2.5` (JSON parsing) with dynamic rule evolution. |
 | 📡 **[Agent-Comms](https://github.com/BlahBlah23406/agent-comms)** | `SUBSPACE RELAY` | Production-grade protocol and toolkit enabling autonomous AI coding agents to communicate, transfer mental models, and synchronize workspace contexts across distributed sessions. |
 | 🏙️ **[Agentropolis](https://github.com/BlahBlah23406/agentropolis)** | `SWARM DISPATCH` | AI agent orchestration visualized as a living metropolis: buildings operate as autonomous agents, payloads move as transport vehicles, and the operator commands as Governor. |
 | 🛡️ **[Lockout Protocol Alpha](https://github.com/BlahBlah23406/lockout-protocol-alpha)** | `TACTICAL SHIELD` | Multi-platform accountability monitor for Android and macOS using computer vision to evaluate operational state against dynamic behavioral rulesets. |
@@ -48,30 +42,7 @@ DEFLECTOR: ENGAGED      :: SHIELDS: 100%        :: NEURAL ARRAYS: SYNCHRONIZED
 | 🤖 **[Project Theta](https://github.com/BlahBlah23406/project-theta)** | `AVIONICS & DRIVE` | Precision odometric drive and autonomous control software engineered for competitive robotics systems. |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
-</div>
-
-### 🔬 PRIMARY SHIP SUBSYSTEMS (TECHNICAL ARSENAL)
-
-```
-┌── [01] NEURAL COMPUTE CORE ────────────────────────────────────────────────────────┐
-│ • Local Models & SLMs : DeepSeek-R1 • Qwen 2.5 • Ollama Runtime                    │
-│ • Cognitive Systems   : Dual-LLM Architectures • Multi-Tier Memory • Reflection    │
-│ • Autonomous Agents   : Tool Calling • Prompt Decomposition • Nuance Recovery     │
-└────────────────────────────────────────────────────────────────────────────────────┘
-┌── [02] SUBSPACE TRANSMISSION & RUNTIME ────────────────────────────────────────────┐
-│ • Languages & Stacks  : TypeScript • JavaScript • Python • Kotlin • Java           │
-│ • Realtime Streams    : Server-Sent Events (SSE) • WebSockets • REST Endpoints     │
-│ • Protocols           : Agent-Comms Inter-Session Context Exchange                │
-└────────────────────────────────────────────────────────────────────────────────────┘
-┌── [03] GUIDANCE, AVIONICS & SENSORS ───────────────────────────────────────────────┐
-│ • Kinematics & Drive  : Odometric Tracking • Trajectory Generation • Motion Control│
-│ • Vision & Analytics  : Vision-Language Model Analysis • Automated Surveillance    │
-└────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
 </div>
 
 ### 📊 SUBSPACE TELEMETRY & FLIGHT METRICS
@@ -89,13 +60,13 @@ DEFLECTOR: ENGAGED      :: SHIELDS: 100%        :: NEURAL ARRAYS: SYNCHRONIZED
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-patch.svg" width="90" alt="Starfleet Command Patch" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-patch.svg" width="75" alt="Starfleet Command Patch" />
+  <br/><br/>
+  <i>"It is possible to commit no mistakes and still lose. That is not weakness, that is life."</i>
   <br/>
-  <i>"Names mean almost everything. They're a promise of what is to come, and a reminder of what came before."</i>
-  <br/>
-  <b>— STARFLEET COMMAND ARCHIVES // COMMISSIONING DISPATCH NCC-1701-G</b>
+  <b>— CAPTAIN JEAN-LUC PICARD</b>
 </div>
