@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/starfleet-delta.svg" width="55" alt="Starfleet Delta Insignia" />
+<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-delta.svg" width="55" alt="Starfleet Delta Insignia" />
 
 # U.S.S. ENTERPRISE • NCC-1701-G
 ### STARFLEET COMMAND // DIVISION OF OPERATIONS & ADVANCED RESEARCH
 **LCARS-2500 CONSOLE INTERFACE • SYSTEM DIRECTIVE 2402.1**
 
-<img src="./assets/lcars-loader.svg" width="340" alt="LCARS Telemetry Stream" />
+<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-loader.svg" width="340" alt="LCARS Telemetry Stream" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/VESSEL-USS%20ENTERPRISE-FF9900?style=for-the-badge&labelColor=080C14" alt="Vessel" />
@@ -21,11 +21,11 @@
 ---
 
 <div align="center">
-  <img src="./assets/enterprise-g.jpg" width="100%" alt="USS Enterprise NCC-1701-G Hero Display" style="border-radius: 8px; border: 1px solid #FF9900;" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/enterprise-g.jpg" width="100%" alt="USS Enterprise NCC-1701-G Hero Display" style="border-radius: 8px; border: 1px solid #FF9900;" />
 </div>
 
 <div align="center">
-  <img src="./assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
 </div>
 
 ```
@@ -48,7 +48,7 @@ DEFLECTOR: ENGAGED      :: SHIELDS: 100%        :: NEURAL ARRAYS: SYNCHRONIZED
 | 🤖 **[Project Theta](https://github.com/BlahBlah23406/project-theta)** | `AVIONICS & DRIVE` | Precision odometric drive and autonomous control software engineered for competitive robotics systems. |
 
 <div align="center">
-  <img src="./assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
 </div>
 
 ### 🔬 PRIMARY SHIP SUBSYSTEMS (TECHNICAL ARSENAL)
@@ -71,7 +71,7 @@ DEFLECTOR: ENGAGED      :: SHIELDS: 100%        :: NEURAL ARRAYS: SYNCHRONIZED
 ```
 
 <div align="center">
-  <img src="./assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
 </div>
 
 ### 📊 SUBSPACE TELEMETRY & FLIGHT METRICS
@@ -89,11 +89,11 @@ DEFLECTOR: ENGAGED      :: SHIELDS: 100%        :: NEURAL ARRAYS: SYNCHRONIZED
 </div>
 
 <div align="center">
-  <img src="./assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Divider" />
 </div>
 
 <div align="center">
-  <img src="./assets/starfleet-patch.svg" width="90" alt="Starfleet Command Patch" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-patch.svg" width="90" alt="Starfleet Command Patch" />
   <br/>
   <i>"Names mean almost everything. They're a promise of what is to come, and a reminder of what came before."</i>
   <br/>
