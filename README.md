@@ -28,14 +28,33 @@
 
 ### STRATEGIC FLEET DIRECTIVES & INITIATIVES
 
-| Designation | Initiative & System | Classification | Operational Overview & Architecture |
-| :--- | :--- | :--- | :--- |
-| `DIR-01` | **[Project Zora](https://github.com/BlahBlah23406/project-zora)** | `LOCAL-AI CORE` | Starfleet-themed personal assistant and bridge console inspired by Discovery's AI. Dual-LLM cognitive pipeline orchestrating local `DeepSeek-R1` (deep reasoning) and `Qwen 2.5` (structured JSON parsing) with continuous rule evolution. |
-| `DIR-02` | **[Agent-Comms](https://github.com/BlahBlah23406/agent-comms)** | `SUBSPACE RELAY` | Production-grade protocol and toolkit enabling autonomous AI coding agents to transfer mental models, package context capsules, and coordinate live across machines via real-time WebSocket relay mesh. |
-| `DIR-03` | **[Agentropolis](https://github.com/BlahBlah23406/agentropolis)** | `SWARM DISPATCH` | Multi-agent orchestration system visualized as an autonomous living metropolis: buildings operate as autonomous agent nodes, payloads move as transport vehicles, and the operator commands as Governor. |
-| `DIR-04` | **[Lockout Protocol Alpha](https://github.com/BlahBlah23406/lockout-protocol-alpha)** | `TACTICAL SHIELD` | Multi-platform accountability and system state monitor for Android and macOS leveraging computer vision to evaluate operational state against dynamic behavioral rulesets. |
-| `DIR-05` | **[Project Asgard](https://github.com/BlahBlah23406/project-asgard)** | `GUIDANCE ARRAY` | Ground-up autonomous trajectory generation array engineered in Kotlin/Java to calculate, simulate, and export high-precision robotics motion paths. |
-| `DIR-06` | **[Project Theta](https://github.com/BlahBlah23406/project-theta)** | `AVIONICS & DRIVE` | Precision odometric tracking and autonomous drive control architecture engineered for high-performance robotics systems. |
+<div align="center">
+
+[![DIR-01 Project Zora](https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/dir-zora.svg)](https://github.com/BlahBlah23406/project-zora)
+
+<br/>
+
+[![DIR-02 Agent-Comms](https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/dir-comms.svg)](https://github.com/BlahBlah23406/agent-comms)
+
+<br/>
+
+[![DIR-03 Agentropolis](https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/dir-agentropolis.svg)](https://github.com/BlahBlah23406/agentropolis)
+
+<br/>
+
+[![DIR-04 Lockout Protocol Alpha](https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/dir-lockout.svg)](https://github.com/BlahBlah23406/lockout-protocol-alpha)
+
+<br/>
+
+[![DIR-05 Project Asgard](https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/dir-asgard.svg)](https://github.com/BlahBlah23406/project-asgard)
+
+<br/>
+
+[![DIR-06 Project Theta](https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/dir-theta.svg)](https://github.com/BlahBlah23406/project-theta)
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
