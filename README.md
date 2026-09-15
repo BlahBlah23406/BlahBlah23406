@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-delta.svg" width="50" alt="Starfleet Delta Insignia" />
+<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/starfleet-delta.svg" width="55" alt="Starfleet Delta Insignia" />
 
 # ADMIRAL BLAHBLAH23406
 ### STARFLEET COMMAND • FLAG OFFICER PERSONAL DOSSIER
@@ -17,43 +17,43 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-header.svg" width="100%" alt="LCARS 2500 Header Console" />
 </div>
 
-```
-========================================================================================
-[LCARS PERSONNEL DOSSIER // SEC-OPS 25.04] :: ADMIRAL BLAHBLAH23406
-STARDATE: 103214.8      :: SECTOR: 001 (SOL)    :: CLEARANCE: LEVEL 10 / OMEGA PRIVILEGE
-STATUS: ACTIVE DUTY     :: U.S.S. ENTERPRISE-G  :: ALL STRATEGIC INITIATIVES NOMINAL
-========================================================================================
-```
-
-### 🖖 ACTIVE FLEET DIRECTIVES & INITIATIVES
-
-| Mission Directive | Classification | Overview & Architecture |
-| :--- | :--- | :--- |
-| 🛸 **[Project Zora](https://github.com/BlahBlah23406/project-zora)** | `LOCAL-AI CORE` | Starfleet-themed personal assistant & dashboard inspired by Discovery's AI. Dual-LLM cognitive pipeline orchestrating local `DeepSeek-R1` (deep reasoning) & `Qwen 2.5` (JSON parsing) with dynamic rule evolution. |
-| 📡 **[Agent-Comms](https://github.com/BlahBlah23406/agent-comms)** | `SUBSPACE RELAY` | Production-grade protocol and toolkit enabling autonomous AI coding agents to communicate, transfer mental models, and synchronize workspace contexts across distributed sessions. |
-| 🏙️ **[Agentropolis](https://github.com/BlahBlah23406/agentropolis)** | `SWARM DISPATCH` | AI agent orchestration visualized as a living metropolis: buildings operate as autonomous agents, payloads move as transport vehicles, and the operator commands as Governor. |
-| 🛡️ **[Lockout Protocol Alpha](https://github.com/BlahBlah23406/lockout-protocol-alpha)** | `TACTICAL SHIELD` | Multi-platform accountability monitor for Android and macOS using computer vision to evaluate operational state against dynamic behavioral rulesets. |
-| 📐 **[Project Asgard](https://github.com/BlahBlah23406/project-asgard)** | `GUIDANCE ARRAY` | Ground-up autonomous trajectory planning tool written in Kotlin/Java to generate, test, and export high-precision robot movement paths. |
-| 🤖 **[Project Theta](https://github.com/BlahBlah23406/project-theta)** | `AVIONICS & DRIVE` | Precision odometric drive and autonomous control software engineered for competitive robotics systems. |
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
 </div>
 
-### 📊 SUBSPACE TELEMETRY & FLIGHT METRICS
+### STRATEGIC FLEET DIRECTIVES & INITIATIVES
+
+| Designation | Initiative & System | Classification | Operational Overview & Architecture |
+| :--- | :--- | :--- | :--- |
+| `DIR-01` | **[Project Zora](https://github.com/BlahBlah23406/project-zora)** | `LOCAL-AI CORE` | Starfleet-themed personal assistant and bridge console inspired by Discovery's AI. Dual-LLM cognitive pipeline orchestrating local `DeepSeek-R1` (deep reasoning) and `Qwen 2.5` (structured JSON parsing) with continuous rule evolution. |
+| `DIR-02` | **[Agent-Comms](https://github.com/BlahBlah23406/agent-comms)** | `SUBSPACE RELAY` | Production-grade protocol and toolkit enabling autonomous AI coding agents to transfer mental models, package context capsules, and coordinate live across machines via real-time WebSocket relay mesh. |
+| `DIR-03` | **[Agentropolis](https://github.com/BlahBlah23406/agentropolis)** | `SWARM DISPATCH` | Multi-agent orchestration system visualized as an autonomous living metropolis: buildings operate as autonomous agent nodes, payloads move as transport vehicles, and the operator commands as Governor. |
+| `DIR-04` | **[Lockout Protocol Alpha](https://github.com/BlahBlah23406/lockout-protocol-alpha)** | `TACTICAL SHIELD` | Multi-platform accountability and system state monitor for Android and macOS leveraging computer vision to evaluate operational state against dynamic behavioral rulesets. |
+| `DIR-05` | **[Project Asgard](https://github.com/BlahBlah23406/project-asgard)** | `GUIDANCE ARRAY` | Ground-up autonomous trajectory generation array engineered in Kotlin/Java to calculate, simulate, and export high-precision robotics motion paths. |
+| `DIR-06` | **[Project Theta](https://github.com/BlahBlah23406/project-theta)** | `AVIONICS & DRIVE` | Precision odometric tracking and autonomous drive control architecture engineered for high-performance robotics systems. |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-divider.svg" width="100%" alt="LCARS Symmetrical Divider" />
+</div>
+
+### SUBSPACE TELEMETRY & SYSTEM STATUS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BlahBlah23406&theme=dark&background=080C14&border=FF9900&stroke=00E5FF&ring=FF9900&fire=FF2A55&currStreakNum=00E5FF&sideNums=FF9900&currStreakLabel=FFB347&border_radius=8" alt="Starfleet Subspace Flight Streak" />
+<img src="https://raw.githubusercontent.com/BlahBlah23406/BlahBlah23406/main/assets/lcars-telemetry.svg" width="100%" alt="LCARS Subspace Telemetry and Fleet Flight Metrics" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=BlahBlah23406&label=SUBSPACE+SENSOR+SCANS&color=FF9900&style=for-the-badge" alt="Subspace Sensor Scans" />
-<img src="https://img.shields.io/github/followers/BlahBlah23406?label=CREW%20MANIFEST&style=for-the-badge&color=00E5FF&labelColor=080C14" alt="Crew Manifest" />
-<img src="https://img.shields.io/badge/SECURITY%20CLEARANCE-ALPHA%20ONE-FF2A55?style=for-the-badge&labelColor=080C14" alt="Security Clearance" />
+<p align="center">
+  <img src="https://img.shields.io/badge/ODN%20RELAYS-99.98%25%20NOMINAL-00E5FF?style=for-the-badge&labelColor=080C14" alt="ODN Relays" />
+  <img src="https://img.shields.io/badge/SUBSPACE%20GRID-ACTIVE%20CARRIER-FF9900?style=for-the-badge&labelColor=080C14" alt="Subspace Grid" />
+  <img src="https://img.shields.io/badge/SECURITY%20PROTOCOL-LEVEL%2010%20OMEGA-FF2A55?style=for-the-badge&labelColor=080C14" alt="Security Protocol" />
+</p>
 
 </div>
 
