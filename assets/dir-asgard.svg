@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 84" width="100%" height="84" role="img" aria-label="LCARS Directive: Project Asgard">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 96" width="100%" height="96" role="img" aria-label="LCARS Directive: Project Asgard">
   <defs>
     <style>
       .lcars-mono { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 700; text-transform: uppercase; }
@@ -8,10 +8,10 @@
   </defs>
 
   <!-- Card Background -->
-  <rect width="960" height="84" fill="#080C14" rx="6" stroke="#1E293B" stroke-width="1.2"/>
+  <rect width="960" height="96" fill="#080C14" rx="6" stroke="#1E293B" stroke-width="1.2"/>
 
   <!-- Left LCARS Accent Pillar -->
-  <path d="M 12 72 L 12 18 A 6 6 0 0 1 18 12 L 28 12 A 3 3 0 0 1 31 15 L 31 69 A 3 3 0 0 1 28 72 Z" fill="#FFB347"/>
+  <path d="M 12 84 L 12 18 A 6 6 0 0 1 18 12 L 28 12 A 3 3 0 0 1 31 15 L 31 81 A 3 3 0 0 1 28 84 Z" fill="#FFB347"/>
 
   <!-- Designation Badge -->
   <rect x="38" y="14" width="62" height="22" rx="3" fill="#FFB347"/>
@@ -21,15 +21,18 @@
   <text x="110" y="30" fill="#FEFEFE" class="lcars-heavy" font-size="15" letter-spacing="1">PROJECT ASGARD</text>
 
   <!-- Classification Tag -->
-  <rect x="270" y="14" width="134" height="22" rx="3" fill="#0E1726" stroke="#FFB347" stroke-width="1"/>
-  <text x="337" y="29" fill="#FFB347" class="lcars-mono" font-size="9.5" text-anchor="middle" letter-spacing="0.5">GUIDANCE ARRAY</text>
+  <rect x="280" y="14" width="134" height="22" rx="3" fill="#0E1726" stroke="#FFB347" stroke-width="1"/>
+  <text x="347" y="29" fill="#FFB347" class="lcars-mono" font-size="9.5" text-anchor="middle" letter-spacing="0.5">GUIDANCE ARRAY</text>
 
   <!-- Right Access Button -->
   <rect x="790" y="14" width="156" height="22" rx="3" fill="#0E1726" stroke="#FFB347" stroke-width="1"/>
   <text x="868" y="29" fill="#FFB347" class="lcars-mono" font-size="9.5" text-anchor="middle" letter-spacing="0.5">ACCESS REPOSITORY →</text>
 
-  <!-- Description Body -->
+  <!-- Description Body (2-line wrapped to prevent cutoff) -->
   <text x="38" y="58" fill="#CBD5E1" class="lcars-desc" font-size="12">
-    Ground-up autonomous trajectory generation array engineered in <tspan fill="#FFB347" font-weight="600">Kotlin / Java</tspan> to calculate, simulate, and export high-precision robotics motion paths.
+    Ground-up autonomous trajectory planning and generation array engineered in <tspan fill="#FFB347" font-weight="600">Kotlin / Java</tspan>.
+  </text>
+  <text x="38" y="77" fill="#CBD5E1" class="lcars-desc" font-size="12">
+    Calculates, simulates, and exports high-precision kinematics and motion paths for competitive robotics.
   </text>
 </svg>
